@@ -33,7 +33,6 @@
     <li IfModActive="vanillaracesexpanded.highmate">Mods and Shit/VRE Highmate</li>
     <li IfModActive="vanillaracesexpanded.pigskin">Mods and Shit/VRE Pigskins</li>
     <li IfModActive="vanillaracesexpanded.saurid">Mods and Shit/VRE Saurids</li>
-    <li IfModActive="vanillaexpanded.vtexvariations">Mods and Shit/VTE Variations</li>
     <li IfModActive="vanillaexpanded.vwec">Mods and Shit/VWE Coilguns</li>
     <li IfModActive="vanillaexpanded.vwel">Mods and Shit/VWE Laser</li>
     <li IfModActive="redmattis.betterconversion">Mods and Shit/Wololoo</li>
