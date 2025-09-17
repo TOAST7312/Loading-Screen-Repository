@@ -36,5 +36,7 @@
     <li IfModActive="vanillaexpanded.vwec">Mods and Shit/VWE Coilguns</li>
     <li IfModActive="vanillaexpanded.vwel">Mods and Shit/VWE Laser</li>
     <li IfModActive="redmattis.betterconversion">Mods and Shit/Wololoo</li>
+    <li IfModActive="tehdav.schoolandlearning">Mods and Shit/School & Learning</li>
+    <li IfModActive="zal.expandwoodwork">Mods and Shit/Expanded Woodworking (Continued)</li>
   </v1.6>
 </loadFolders>

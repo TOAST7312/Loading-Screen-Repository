@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_01</defName>
+    <tip>Expanded Woodworking automatically detects and generates wood types from trees in your game. Each tree species gets its own log and lumber variants with unique properties and colors.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_02</defName>
+    <tip>Wood types are automatically categorized as Hardwood, Softwood, Exotic Woods, or Alien Woods based on their properties. Hardwoods have higher hit points and beauty but process slower, while softwoods are faster to work with.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_03</defName>
+    <tip>Use the sawmill to process logs into lumber. The mod automatically creates processing recipes for each detected wood type, allowing you to convert any log into its corresponding lumber variant.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_04</defName>
+    <tip>All wood types can be used for construction, furniture, and fuel. Higher-quality woods provide better beauty and hit points for furniture, while exotic woods often burn longer as fuel.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_05</defName>
+    <tip>The mod uses thing categories for broad compatibility. Any furniture or building that accepts wood will automatically work with all generated wood types from any mod.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_06</defName>
+    <tip>Rare and exotic woods have higher market values, making them valuable for trading. Consider harvesting special trees from different biomes for their unique wood types.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_07</defName>
+    <tip>The mod includes compatibility patches for many popular mods including Alpha Animals, Medieval Overhaul, Vanilla Furniture Expanded, and many others to ensure seamless integration.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_08</defName>
+    <tip>Enable "Verbose Logging" in mod settings if you need detailed diagnostics during troubleshooting. The mod normally logs only significant events to keep performance optimal.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_09</defName>
+    <tip>Wood detection happens automatically when you start a new game or load a save. The mod scans all loaded mods for tree definitions and creates corresponding wood types.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_10</defName>
+    <tip>Alien woods from alien biomes often have unusual properties like fire resistance or special effects. These woods are typically rarer and more valuable than standard wood types.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_11</defName>
+    <tip>The mod works with Simple Chains: Lumber for a complete wood processing pipeline: Trees → Logs → Green Lumber → Dried Lumber → Furniture/Buildings.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_12</defName>
+    <tip>Quality matters for wood products. Higher quality lumber and furniture made from better woods will have superior stats and market values compared to basic materials.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_13</defName>
+    <tip>Some mods add special wood types that require specific processing methods. The mod automatically handles most cases, but check individual mod documentation for unique requirements.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_14</defName>
+    <tip>Wood types are cached for performance. If you add new mods with trees, you may need to clear the cache in mod settings to detect the new wood types.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_15</defName>
+    <tip>The mod includes driftwood formation mechanics for coastal areas. Driftwood can be collected and processed like other wood types, providing additional resources near water.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_16</defName>
+    <tip>Woodworking recipes automatically adapt to use any available wood type. Your colonists will use whatever wood is available rather than requiring specific types for basic construction.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_17</defName>
+    <tip>Exotic woods often have unique colors and textures that can make your furniture and buildings more visually appealing. Experiment with different wood types for aesthetic variety.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_18</defName>
+    <tip>The mod is optimized for both RimWorld 1.5 and 1.6, with performance improvements in the 1.6 version including HashSet caching and single-pass detection.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_19</defName>
+    <tip>Wood types from different biomes often reflect their environment. Desert woods might be more fire-resistant, while tropical woods could have higher beauty values.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_20</defName>
+    <tip>If you experience issues with title-screen crashes when using Better Exploration Loot with Steam overlay, ensure you're using version 1.1.15+ which includes overlay-safe guards.</tip>
+  </LoadingScreenTipDef>
+</Defs>

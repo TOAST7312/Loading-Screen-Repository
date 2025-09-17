@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_01</defName>
+    <tip>School &amp; Learning adds a comprehensive education system to RimWorld. Build blackboards and school desks to create classrooms where colonists can teach and learn skills through structured lessons.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_02</defName>
+    <tip>Teachers and students have individual tech levels that affect teaching effectiveness. Match teachers and students with compatible tech levels for optimal learning - same tech level gives 100% effectiveness, while larger gaps reduce effectiveness significantly.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_03</defName>
+    <tip>Students have a Learning Focus need that decreases during lessons and recovers during rest. Monitor focus levels and don't schedule overly long lessons for easily bored students.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_04</defName>
+    <tip>Children (ages 3-12) cannot abandon classes but may cause disruptions when bored. Adult students can leave boring classes when their focus drops too low, receiving a mood penalty for abandoning lessons.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_05</defName>
+    <tip>Use the Education menu button on the bottom bar to manage all your blackboards from one centralized location. You can view schedules, assign students, and center the camera on any classroom.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_06</defName>
+    <tip>Bookshelves in classrooms provide learning bonuses based on the books stored inside. Higher quality bookshelves provide better bonuses, and skill-specific books give targeted bonuses for those subjects.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_07</defName>
+    <tip>Teachers can perform skill demonstrations during lessons if they have the right tools and materials. Successful demonstrations provide extra learning bonuses for students.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_08</defName>
+    <tip>Child teachers (ages 3-12) have enhanced requirements: they need at least one skill ≥15 and either Social or Intellectual ≥5 to be effective teachers.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_09</defName>
+    <tip>The mod includes 8 new learning-related traits like Study Bug, Laser Focus, and Combat Enthusiast that affect how students learn and maintain focus during different subjects.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_10</defName>
+    <tip>Schedule your lessons in quarters throughout the day. The mod divides each day into 4 quarters, allowing you to plan different subjects at different times for optimal learning.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_11</defName>
+    <tip>Archotech teachers have 0% teaching effectiveness - their knowledge is too advanced for mortals to comprehend. Better to assign them to other tasks or find more appropriate teachers.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_12</defName>
+    <tip>Students learn better when assigned to subjects they're interested in. Check each student's interest stats and match them with appropriate lesson subjects for maximum engagement.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_13</defName>
+    <tip>Smaller class sizes are more effective than large ones. Consider building multiple smaller classrooms rather than one large lecture hall for better learning outcomes.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_14</defName>
+    <tip>The mod is fully compatible with Biotech's child learning system and provides both skill XP and growth points for children attending school.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_15</defName>
+    <tip>Use globes and other learning furniture in classrooms for additional learning bonuses. Higher quality furniture provides better bonuses for all nearby desks and blackboards.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_16</defName>
+    <tip>Teachers prefer to teach subjects they're skilled in. Assign teachers to subjects where they have high skill levels for more effective and engaging lessons.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_17</defName>
+    <tip>Students with very low focus may abandon classes after 50+ seconds below 20% focus. Plan breaks between intensive lessons to allow focus recovery.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_18</defName>
+    <tip>The mod includes a lunch break system where students can socialize and eat during scheduled breaks, helping to maintain their focus and mood throughout the school day.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_19</defName>
+    <tip>Teaching content automatically adapts based on the effective teaching level between teacher and student. A Spacer teacher will explain advanced concepts in medieval terms when teaching medieval students.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_20</defName>
+    <tip>Enable debug logging in the mod settings to see detailed information about tech level calculations, teaching effectiveness, and focus level changes for troubleshooting.</tip>
+  </LoadingScreenTipDef>
+</Defs>
