@@ -7,17 +7,17 @@
 
   <LoadingScreenTipDef>
     <defName>SchoolLearning_Tip_02</defName>
-    <tip>Teachers and students have individual tech levels that affect teaching effectiveness. Match teachers and students with compatible tech levels for optimal learning - same tech level gives 100% effectiveness, while larger gaps reduce effectiveness significantly.</tip>
+    <tip>Teachers and students have individual tech levels that affect teaching effectiveness. Same tech level gives 100% effectiveness, 1 level difference gives 90%, 2 levels gives 70%, and 3+ levels gives 50% or less effectiveness.</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
     <defName>SchoolLearning_Tip_03</defName>
-    <tip>Students have a Learning Focus need that decreases during lessons and recovers during rest. Monitor focus levels and don't schedule overly long lessons for easily bored students.</tip>
+    <tip>Children (ages 3-12) have a Learning Focus need that decreases during lessons and recovers during rest. Monitor their focus levels and don't schedule overly long lessons for easily bored students.</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
     <defName>SchoolLearning_Tip_04</defName>
-    <tip>Children (ages 3-12) cannot abandon classes but may cause disruptions when bored. Adult students can leave boring classes when their focus drops too low, receiving a mood penalty for abandoning lessons.</tip>
+    <tip>Children (ages 3-12) have a Learning Focus need that decreases during lessons and cannot abandon classes, but may cause disruptions when bored. Adult students can abandon classes when their interest drops below 30% for 12.5 seconds, receiving a mood penalty.</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
@@ -47,7 +47,7 @@
 
   <LoadingScreenTipDef>
     <defName>SchoolLearning_Tip_10</defName>
-    <tip>Schedule your lessons in quarters throughout the day. The mod divides each day into 4 quarters, allowing you to plan different subjects at different times for optimal learning.</tip>
+    <tip>Schedule your lessons in 1-hour blocks throughout the day. The mod divides each year into four 15-day quarters, allowing you to plan different subjects at different times for optimal learning.</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
@@ -57,46 +57,51 @@
 
   <LoadingScreenTipDef>
     <defName>SchoolLearning_Tip_12</defName>
-    <tip>Students learn better when assigned to subjects they're interested in. Check each student's interest stats and match them with appropriate lesson subjects for maximum engagement.</tip>
+    <tip>Children can become teachers if they have at least one skill at level 15 or higher, plus either Social OR Intellectual skill at level 5 or higher. Child teachers are excellent for teaching other children.</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
     <defName>SchoolLearning_Tip_13</defName>
-    <tip>Smaller class sizes are more effective than large ones. Consider building multiple smaller classrooms rather than one large lecture hall for better learning outcomes.</tip>
+    <tip>Students learn better when assigned to subjects they're interested in. Check each student's interest stats and match them with appropriate lesson subjects for maximum engagement.</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
     <defName>SchoolLearning_Tip_14</defName>
-    <tip>The mod is fully compatible with Biotech's child learning system and provides both skill XP and growth points for children attending school.</tip>
+    <tip>Smaller class sizes are more effective than large ones. Consider building multiple smaller classrooms rather than one large lecture hall for better learning outcomes.</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
     <defName>SchoolLearning_Tip_15</defName>
-    <tip>Use globes and other learning furniture in classrooms for additional learning bonuses. Higher quality furniture provides better bonuses for all nearby desks and blackboards.</tip>
+    <tip>The mod is fully compatible with Biotech's child learning system and provides both skill XP and growth points for children attending school.</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
     <defName>SchoolLearning_Tip_16</defName>
-    <tip>Teachers prefer to teach subjects they're skilled in. Assign teachers to subjects where they have high skill levels for more effective and engaging lessons.</tip>
+    <tip>Use globes and other learning furniture in classrooms for additional learning bonuses. Higher quality furniture provides better bonuses for all nearby desks and blackboards.</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
     <defName>SchoolLearning_Tip_17</defName>
-    <tip>Students with very low focus may abandon classes after 50+ seconds below 20% focus. Plan breaks between intensive lessons to allow focus recovery.</tip>
+    <tip>Teachers prefer to teach subjects they're skilled in. Assign teachers to subjects where they have high skill levels for more effective and engaging lessons.</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
     <defName>SchoolLearning_Tip_18</defName>
-    <tip>The mod includes a lunch break system where students can socialize and eat during scheduled breaks, helping to maintain their focus and mood throughout the school day.</tip>
+    <tip>Adult students may abandon classes when their interest drops below 30% for 12.5 seconds. Children cannot abandon classes but may cause disruptions when their focus is low.</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
     <defName>SchoolLearning_Tip_19</defName>
-    <tip>Teaching content automatically adapts based on the effective teaching level between teacher and student. A Spacer teacher will explain advanced concepts in medieval terms when teaching medieval students.</tip>
+    <tip>The mod includes a lunch break system where students can socialize and eat during scheduled breaks, helping to maintain their focus and mood throughout the school day.</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
     <defName>SchoolLearning_Tip_20</defName>
+    <tip>Teaching content automatically adapts based on the effective teaching level between teacher and student. A Spacer teacher will explain advanced concepts in medieval terms when teaching medieval students.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>SchoolLearning_Tip_21</defName>
     <tip>Enable debug logging in the mod settings to see detailed information about tech level calculations, teaching effectiveness, and focus level changes for troubleshooting.</tip>
   </LoadingScreenTipDef>
 </Defs>
