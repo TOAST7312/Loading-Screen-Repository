@@ -7,12 +7,12 @@
 
   <LoadingScreenTipDef>
     <defName>ExpandedWoodworking_Tip_02</defName>
-    <tip>Wood types are automatically categorized as Hardwood, Softwood, Exotic Woods, or Alien Woods based on their properties. Hardwoods have higher hit points and beauty but process slower, while softwoods are faster to work with.</tip>
+    <tip>Wood types are automatically detected and mapped to existing wood categories using pattern matching and adjective-based descriptors. Different wood types have varying hit points, beauty, and work requirements based on their properties.</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
     <defName>ExpandedWoodworking_Tip_03</defName>
-    <tip>Use the sawmill to process logs into lumber. The mod automatically creates processing recipes for each detected wood type, allowing you to convert any log into its corresponding lumber variant.</tip>
+    <tip>Use the sawmill to process logs into lumber. The mod automatically creates processing recipes for each detected wood type, allowing you to convert any log into its corresponding lumber variant. Green lumber can be made at the crafting spot (tribal), foot-powered woodworking bench/trestle (Smithing), or electric woodworking bench (Electricity).</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
@@ -52,7 +52,7 @@
 
   <LoadingScreenTipDef>
     <defName>ExpandedWoodworking_Tip_11</defName>
-    <tip>The mod works with Simple Chains: Lumber for a complete wood processing pipeline: Trees → Logs → Green Lumber → Dried Lumber → Furniture/Buildings.</tip>
+    <tip>The mod works with Simple Chains: Lumber for a complete wood processing pipeline: Trees → Logs → Green Lumber (via Carpenter's Trestle, crafting spot, or electric woodworking bench) → Dried Lumber (via Wood Drying Rack) → Furniture/Buildings. When both mods are active, the trestle replaces the foot-powered woodworking bench.</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
@@ -72,7 +72,7 @@
 
   <LoadingScreenTipDef>
     <defName>ExpandedWoodworking_Tip_15</defName>
-    <tip>The mod includes driftwood formation mechanics for coastal areas. Driftwood can be collected and processed like other wood types, providing additional resources near water.</tip>
+    <tip>The mod includes driftwood formation mechanics for coastal areas. Wood logs left in saltwater environments will gradually transform into driftwood over time, providing additional resources near water.</tip>
   </LoadingScreenTipDef>
 
   <LoadingScreenTipDef>
@@ -97,6 +97,11 @@
 
   <LoadingScreenTipDef>
     <defName>ExpandedWoodworking_Tip_20</defName>
-    <tip>If you experience issues with title-screen crashes when using Better Exploration Loot with Steam overlay, ensure you're using version 1.1.15+ which includes overlay-safe guards.</tip>
+    <tip>If you experience issues with title-screen crashes when using Better Exploration Loot with Steam overlay, the mod includes overlay-safe guards to prevent early texture loading that can cause crashes.</tip>
+  </LoadingScreenTipDef>
+
+  <LoadingScreenTipDef>
+    <defName>ExpandedWoodworking_Tip_21</defName>
+    <tip>Green lumber production requires different research levels: crafting spot (tribal, no research), foot-powered woodworking bench/trestle (Smithing research), or electric woodworking bench (Electricity research). When Simple Chains: Lumber is active, the trestle replaces the foot-powered woodworking bench.</tip>
   </LoadingScreenTipDef>
 </Defs>
